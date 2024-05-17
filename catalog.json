@@ -1,6 +1,9 @@
 {
     "charts": {},
     "test": {},
+    "fablab": {
+
+    },
     "stable": {
         "humhub": {
             "app_readme": "<p>A feature rich and highly flexible OpenSource Social Network Kit written in PHP.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/humhub\">https://truecharts.org/charts/stable/humhub</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
